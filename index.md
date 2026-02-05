@@ -9,7 +9,10 @@ tags:
   - release-notes
 ---
 
-Adoptium is happy to announce the immediate availability of Eclipse Temurin 8u482-b08, 11.0.30+7, 17.0.18+8, 21.0.10+7 and 25.0.2+10. As always, all binaries are thoroughly tested and available free of charge without usage restrictions on a wide range of platforms. Binaries, installers, and source code are available from the [Temurin download page](https://adoptium.net/temurin/releases), [official container images](https://hub.docker.com/_/eclipse-temurin) are available at DockerHub, and [installable packages](https://adoptium.net/installation/) are available for various operating systems.
+Adoptium is happy to announce the immediate availability of Eclipse Temurin 8u482-b08, 11.0.30+7, 17.0.18+8, 21.0.10+7 and 25.0.2+10. As always, all binaries are thoroughly tested and available free of charge without usage restrictions on a wide range of platforms.
+Binaries, installers, and source code are available from the [Temurin download page](https://adoptium.net/temurin/releases), [official container images](https://hub.docker.com/_/eclipse-temurin) are available at DockerHub,
+and [installable packages](https://adoptium.net/installation/) are available for various operating systems.
+
 
 ## Fixes and Updates
 
